@@ -1,4 +1,4 @@
-## Hi 🙋‍♂️, I'm [Inzamam Baig!](https://github.com/inzamambaig/)
+## Hi 🙋‍♂️, I'm [Inzamam Baig](https://github.com/inzamambaig/)
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://inzamambaig.com/) -->
 
