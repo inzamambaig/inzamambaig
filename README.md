@@ -7,11 +7,11 @@
 
 ### About Me:
 
-- 🛠 &nbsp; 👋 Hi, I’m @inzamambaig.
-- 🚀 &nbsp; 👀 I’m interested in Python, Machine Learning, AI, Web and Mobile..
-- 👨🏻‍💻 &nbsp; 🌱 I’m currently learning Data Science and AI in Python..
-- 💬 &nbsp; 📫 You can contact me on inzamambaig@outlook.com
-- 📫 &nbsp; ✉ Personal Portfolio website www.inzamambaig.com.
+- &nbsp; 👋 Hi, I’m @inzamambaig.
+- &nbsp; 👀 I’m interested in Python, Machine Learning, AI, Web and Mobile..
+- &nbsp; 💻 I’m currently learning Data Science and AI in Python..
+- &nbsp; 📫 You can contact me on inzamambaig@outlook.com
+- &nbsp; ✉ Personal Portfolio website www.inzamambaig.com.
 
 ### Programming Languages and Tools:
 
