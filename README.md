@@ -5,8 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/in/inzamam-baig/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ibaaig)
 
-
-
 ### About Me:
 
 - 🛠 &nbsp; 👋 Hi, I’m @inzamambaig.
@@ -14,7 +12,6 @@
 - 👨🏻‍💻 &nbsp; 🌱 I’m currently learning Data Science and AI in Python..
 - 💬 &nbsp; 📫 You can contact me on inzamambaig@outlook.com
 - 📫 &nbsp; ✉ Personal Portfolio website www.inzamambaig.com.
-
 
 ### Programming Languages and Tools:
 
@@ -25,7 +22,6 @@
 <code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870097-b048bc80-89a8-11eb-9cb4-d679c3f8bce5.png" alt="typescript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-
 <hr>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -34,15 +30,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamambaig&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-
-
-
- 
-
 #
 
 <div align="center">
 
-### Made in ❤️ Gilgit Pakistan
+### Made in ⛰ <a href="https://www.google.com/maps/place/Gilgit/@35.913728,74.3636992,14z/data=!4m5!3m4!1s0x38e649e3642543b1:0x40fd0ca3ca17282b!8m2!3d35.881911!4d74.4642861">Gilgit</a>, Pakistan
 
 </div>
