@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @inzamambaig
-- 👀 I’m interested in Python, Machine Learning, AI, Web and Mobile.
-- 🌱 I’m currently learning Data Science and AI in Python.
-- 📫 You can contact me on inzamambaig@outlook.com
-- ✉ Personal Portfolio website www.inzamambaig.com
+## Hey 👋, I'm [Inzamam Baig!](https://github.com/inzamambaig/)
 
-<!---
-inzamambaig/inzamambaig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://inzamambaig.com/) -->
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/in/inzamam-baig/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ibaaig)
+
+
+
+### About Me:
+
+- 🛠 &nbsp; 👋 Hi, I’m @inzamambaig.
+- 🚀 &nbsp; 👀 I’m interested in Python, Machine Learning, AI, Web and Mobile..
+- 👨🏻‍💻 &nbsp; 🌱 I’m currently learning Data Science and AI in Python..
+- 💬 &nbsp; 📫 You can contact me on inzamambaig@outlook.com
+- 📫 &nbsp; ✉ Personal Portfolio website www.inzamambaig.com.
+
+
+### Programming Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="Python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870008-26005880-89a8-11eb-9da3-09faf8c80f9e.png" alt="javascript"></code>
+<code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870097-b048bc80-89a8-11eb-9cb4-d679c3f8bce5.png" alt="typescript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+
+<hr>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inzamambaig&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamambaig&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+
+
+
+ 
+
+#
+
+<div align="center">
+
+### Made in ❤️ Gilgit Pakistan
+
+</div>
