@@ -47,13 +47,7 @@
 </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/inzamambaig">
-    <img src="https://komarev.com/ghpvc/?username=inzamambaig&color=blue&style=flat)" />
-  </a>
-</p>
 
-<div align="center">
 
 ### Made in ⛰ <a href="https://www.google.com/maps/place/Gilgit/@35.913728,74.3636992,14z/data=!4m5!3m4!1s0x38e649e3642543b1:0x40fd0ca3ca17282b!8m2!3d35.881911!4d74.4642861" target="_blank">Gilgit</a>, Pakistan
 </div>
