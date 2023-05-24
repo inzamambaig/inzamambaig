@@ -28,7 +28,29 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamambaig&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-#
+
+<details>
+<p align="center">
+  <a href="https://github.com/inzamambaig">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inzamambaig&theme=transparent" />
+  </a>
+  <a href="https://github.com/inzamambaig">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=inzamambaig&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/inzamambaig">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inzamambaig&theme=transparent" />
+  </a>
+  <a href="https://github.com/inzamambaig">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamambaig&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/inzamambaig">
+    <img src="https://komarev.com/ghpvc/?username=inzamambaig&color=blue&style=flat)" />
+  </a>
+</p>
 
 <div align="center">
 
