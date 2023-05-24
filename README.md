@@ -30,6 +30,7 @@
 
 
 <details>
+  <summary><b>👨‍💻 Account Details</b></summary>
 <p align="center">
   <a href="https://github.com/inzamambaig">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inzamambaig&theme=transparent" />
