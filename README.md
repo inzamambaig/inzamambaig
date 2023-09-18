@@ -40,14 +40,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamambaig&layout=compact&hide_border=true&theme=tokyonight" alt="Inzamam Baig Github Stats">
 
-<hr>
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inzamambaig&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamambaig&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
 
 <details>
   <summary><b>👨‍💻 Account Details</b></summary>
@@ -60,9 +52,6 @@
   </a>
   <a href="https://github.com/inzamambaig">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inzamambaig&theme=transparent" />
-  </a>
-  <a href="https://github.com/inzamambaig">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamambaig&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
