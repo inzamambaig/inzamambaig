@@ -8,8 +8,7 @@
 - &nbsp; 👋 Hi, I’m @inzamambaig.
 - &nbsp; 👀 I’m interested in Python, Machine Learning, AI, Web and Mobile.
 - &nbsp; 💻 I’m currently learning Data Science and AI in Python.
-- &nbsp; 📫 You can contact me at inzamambaig@outlook.com
-- &nbsp; ✉ Personal Portfolio website https://inzamambaig.github.io/portfolio-inzamam-baig/
+- &nbsp; 📫 You can reach out to me at inzamambaig@outlook.com
 
 ---
 ### Languages and Tools
