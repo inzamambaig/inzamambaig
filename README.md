@@ -3,12 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inzamam-baig/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ibaaig)
 
-### About Me:
-
-- &nbsp; 👋 Hi, I’m @inzamambaig.
-- &nbsp; 👀 I’m interested in Python, Machine Learning, AI, Web and Mobile.
-- &nbsp; 💻 I’m currently learning Data Science and AI in Python.
-- &nbsp; 📫 You can reach out to me at inzamambaig@outlook.com
 
 ---
 ### Languages and Tools
