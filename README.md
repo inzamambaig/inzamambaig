@@ -1,6 +1,4 @@
-## Hi 🙋‍♂️, I'm [Inzamam Baig](https://github.com/inzamambaig/)
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inzamam-baig/)
+## Hi 🙋‍♂️, I'm [Inzamam Baig]
 
 
 ---
