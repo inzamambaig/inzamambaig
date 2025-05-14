@@ -22,9 +22,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamambaig&layout=compact&hide_border=true&theme=tokyonight" alt="Inzamam Baig Github Stats">
-
-
 <details>
   <summary><b>👨‍💻 Account Details</b></summary>
 <p align="center">
